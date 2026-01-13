@@ -1,0 +1,14 @@
+{
+    "name": "hazele251128-cmyk/ai-homeless-man",
+    "description": "A professional library providing robust integration for ai-homeless-man functionalities.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "aihomelessman\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
