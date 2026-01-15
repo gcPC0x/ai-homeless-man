@@ -1,0 +1,15 @@
+{
+  "name": "hazele251128-cmyk/ai-homeless-man",
+  "description": "A robust and reliable library providing seamless integration for ai-homeless-man functionalities.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://supermaker.ai/blog/how-to-do-ai-homeless-man-to-prank-your-friends-family-tiktok-viral-tutorial/",
+  "autoload": {
+    "psr-4": {
+      "aihomelessman\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
